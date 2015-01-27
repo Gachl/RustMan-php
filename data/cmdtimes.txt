@@ -1,0 +1,45 @@
+tpa	xFatalHeadshot	1402777021
+tpa	jannismarvin	1402778512
+tpa	paul.bkm	1402770719
+tpa	Cobra	1402771731
+tpa	DerGraf	1402773592
+tpa	stromieee *Herz* M4A1-S #CBHoch	1402777516
+tpa	leovince	1402777953
+tpa	[D-B] Atlantis	1402823720
+tpa	FuSioNPaiNzZ	1402828067
+tpa	JaFuckth3	1402829337
+tpa	Olidata	1402842997
+tpa	[D-B] Plibofrikadelle	1402846033
+lost	Speedwave	1402762383
+lost	krisa001	1402764421
+good-iLemon	Helícal	1402766710
+good-iLemon	DerGraf	1402766957
+good-iLemon	[D-B] Atlantis	1402766964
+good-Lemonfresh	[D-B] Atlantis	1402766984
+good-Lemonfresh	DerGraf	1402766998
+bad-csubi	XxR4ff35<3	1402766349
+good-Tesken	csubi	1402764726
+bad-DerGraf	csubi	1402766318
+bad-DerGraf	[D-B] Atlantis	1402774430
+bad-XxR4ff35<3	csubi	1402766333
+good-DerGraf	[D-B] Plibofrikadelle	1402774419
+bad-iLemon	[D-B] Atlantis	1402766990
+good-csubi	Leutnant Andron	1402770619
+good-Sandroniii	csubi	1402770635
+good-Leutnant Andron	csubi	1402770649
+good-I3lizZ3d	Olidata	1402770694
+good-Olidata	I3lizZ3d	1402770719
+kit	krisa001	1402761003
+kit_med	RustyPotato	1402761146
+kit_med	krisa001	1402761062
+kit_med	FuSioNPaiNzZ	1402761134
+bad-Hodor	Moldort	1402773807
+bad-Hodor	csubi	1402773818
+bad-Hodor	Mr2Rich	1402773833
+good-Nathi	Moldort	1402773820
+good-Moldort	Nathi	1402773829
+good-[D-B] Atlantis	[D-B] Plibofrikadelle	1402774436
+bad-[D-B] Atlantis	DerGraf	1402774437
+bad-Speedwave	Mr2Rich	1402775273
+bad-Speedwave	RustyPotato	1402775296
+good-Speedwave	INTERDICTA	1402775286

@@ -1,0 +1,8 @@
+cron_hours	1402761720
+cron_airdrop	1402762350
+cron_announce	1402761087
+cron_playercount	1402761031
+cron_joinquit	1402761005
+cron_vote	1402761005
+cron_igtime	1402761017
+cron_parachute	1402761003
